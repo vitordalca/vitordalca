@@ -13,7 +13,4 @@ I like watching videos about science and playing complicated video-games.
 ![](https://streak-stats.demolab.com/?user=vitordalca&theme=bear&hide_border=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vitordalca&theme=bear&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=vitordalca&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
