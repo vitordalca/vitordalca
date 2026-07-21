@@ -19,6 +19,5 @@ I like watching videos about science and playing complicated video-games.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vitordalca&theme=bear&hide_border=true" alt="GitHub Streak Stats" />
 </p>
-![](https://streak-stats.demolab.com/?user=vitordalca&theme=bear&hide_border=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
