@@ -1,8 +1,4 @@
 
-
-[![Play Money For Nothing](https://img.shields.io/badge/▶%20Play-Money%20For%20Nothing%20(Dire%20Straits)-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/user-attachments/assets/a8a20d1c-7c54-4d0d-88c5-d06df4591d1b)
-
-[![Click to Play](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcD.../giphy.gif)](https://github.com/user-attachments/assets/a8a20d1c-7c54-4d0d-88c5-d06df4591d1b)
 [![Playing Music](https://spotify-github-profile.kittinanx.com/api/run?username=YOUR_SPOTIFY_USER)](https://github.com/user-attachments/assets/a8a20d1c-7c54-4d0d-88c5-d06df4591d1b)
 
 # 💫 About Me:
