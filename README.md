@@ -1,6 +1,8 @@
-[![Click to Play](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcD.../giphy.gif)](https://github.com/user-attachments/assets/a8a20d1c-7c54-4d0d-88c5-d06df4591d1b?raw=true)
 
-[![Play Audio](https://img.shields.io/badge/▶%20Play-Money%20For%20Nothing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/user-attachments/assets/a8a20d1c-7c54-4d0d-88c5-d06df4591d1b?raw=true)
+
+https://github.com/user-attachments/assets/cd850f66-7c32-4773-a688-0d3e3ac37b49
+
+
 
 # 💫 About Me:
 Computer Science student, aways learning something new.
