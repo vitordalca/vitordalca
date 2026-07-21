@@ -1,13 +1,6 @@
 
 
-https://github.com/user-attachments/assets/a8a20d1c-7c54-4d0d-88c5-d06df4591d1b
-
-
-
-<video src="https://github.com/user-attachments/assets/a8a20d1c-7c54-4d0d-88c5-d06df4591d1b" controls height="40" width="100%"></video>
-<div style="height: 50px; overflow: hidden; max-width: 400px;">
-  <video src="https://github.com/user-attachments/assets/a8a20d1c-7c54-4d0d-88c5-d06df4591d1b" controls style="width: 100%; height: 100%; object-fit: cover;"></video>
-</div>
+[![Play Money For Nothing](https://img.shields.io/badge/▶%20Play-Money%20For%20Nothing%20(Dire%20Straits)-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/user-attachments/assets/a8a20d1c-7c54-4d0d-88c5-d06df4591d1b)
 
 
 
