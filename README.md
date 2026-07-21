@@ -1,6 +1,10 @@
 
+https://github.com/user-attachments/assets/902adaad-a486-468e-a9a0-eb084e5a74cd
 
-https://github.com/user-attachments/assets/cd850f66-7c32-4773-a688-0d3e3ac37b49
+
+<video src="https://github.com/user-attachments/assets/902adaad-a486-468e-a9a0-eb084e5a74cd" poster="https://github.com/user-attachments/assets/b236f2e2-d4fd-41c1-841f-6cfde578f5f9" controls width="100%"></video>
+
+<img width="205" height="187" alt="Captura de tela de 2026-07-21 11-41-12" src="https://github.com/user-attachments/assets/b236f2e2-d4fd-41c1-841f-6cfde578f5f9" />
 
 
 
