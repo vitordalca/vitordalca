@@ -1,5 +1,7 @@
 
-<img width="205" height="187" alt="Captura de tela de 2026-07-21 11-41-12" src="https://github.com/user-attachments/assets/b236f2e2-d4fd-41c1-841f-6cfde578f5f9" />
+<p align="center">
+  <img width="205" height="187" alt="Captura de tela de 2026-07-21 11-41-12" src="https://github.com/user-attachments/assets/b236f2e2-d4fd-41c1-841f-6cfde578f5f9" />
+</p>
 
 
 
