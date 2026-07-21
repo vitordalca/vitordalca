@@ -1,15 +1,12 @@
 
-<p align="center">
-  <img width="205" height="187" alt="Captura de tela de 2026-07-21 11-41-12" src="https://github.com/user-attachments/assets/b236f2e2-d4fd-41c1-841f-6cfde578f5f9" />
-</p>
-
-
-
 # 💫 About Me:
 Computer Science student, aways learning something new.
 Fullstack dev.
 I like watching videos about science and playing complicated video-games.
 
+<p align="center">
+  <img width="205" height="187" alt="Captura de tela de 2026-07-21 11-41-12" src="https://github.com/user-attachments/assets/b236f2e2-d4fd-41c1-841f-6cfde578f5f9" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-dalcanale-a456a8388) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vitordalca@gmail.com) 
