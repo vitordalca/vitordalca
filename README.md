@@ -9,10 +9,13 @@ I like watching videos about science and playing complicated video-games.
 </p>
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/f19fae12-6f36-4960-beb6-7e6e2c1923af" controls width="400"></video>
+  <video src="https://github.com/user-attachments/assets/f3e21f63-b642-4cdd-8ac7-69faf5e3021d" controls width="400"></video>
 </p>
 
-https://github.com/user-attachments/assets/f19fae12-6f36-4960-beb6-7e6e2c1923af
+
+https://github.com/user-attachments/assets/f3e21f63-b642-4cdd-8ac7-69faf5e3021d
+
+
 
 
 
