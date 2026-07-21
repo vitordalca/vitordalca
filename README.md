@@ -4,9 +4,11 @@ Computer Science student, aways learning something new.
 Fullstack dev.
 I like watching videos about science and playing complicated video-games.
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/f3e21f63-b642-4cdd-8ac7-69faf5e3021d" controls width="400"></video>
-</p>
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/f3e21f63-b642-4cdd-8ac7-69faf5e3021d" controls width="400"></video>
+
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-dalcanale-a456a8388) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vitordalca@gmail.com) 
