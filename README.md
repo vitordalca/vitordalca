@@ -1,4 +1,8 @@
-[Money For Nothing (Remastered 1996) [6K6ODTZ7c10].mp3](https://github.com/user-attachments/files/30231332/Money.For.Nothing.Remastered.1996.6K6ODTZ7c10.mp3)
+
+
+https://github.com/user-attachments/assets/35f495f4-2005-4241-bd4e-b79b88d53d31
+
+
 # 💫 About Me:
 Computer Science student, aways learning something new.
 Fullstack dev.
